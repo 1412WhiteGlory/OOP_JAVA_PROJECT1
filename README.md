@@ -35,6 +35,7 @@ Dưới đây là mô tả bằng văn bản về biểu đồ lớp:
 https://drive.google.com/file/d/1NX9iYlpmkVDaGy7taFvrm2lMi2Ag81Vl/view
 
 4. Mô tả về các thành phần của app:
+   
 https://docs.google.com/document/d/1cDhThf1IQ-itmRIBh_TW-_HfAw1LBQS8DPLU_QysXfc/edit?usp=sharing
 
 
